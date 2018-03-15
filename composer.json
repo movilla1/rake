@@ -1,7 +1,7 @@
 {
     "name": "movilla1/rake",
     "description": "Rapid Automatic Keyword Extraction algorithm implementation in php, based on aneesha/RAKE",
-    "type": "library",
+    "type": "package",
     "homepage": "http://github.com/movilla1",
     "license": "MIT",
     "version": "1.0",
