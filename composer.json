@@ -18,7 +18,8 @@
       "psr-4": {
         "Rake": "src/",
         "\\movilla1\\Rake": ""
-      }
+      },
+      "exclude-from-classmap": ["test/"]
     },
     "minimum-stability": "dev"
 }
