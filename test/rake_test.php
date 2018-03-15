@@ -1,5 +1,5 @@
 <?php
-require_once dirname(__FILE__) . "/../rake.php";
+require_once dirname(__FILE__) . "/../src/rake.php";
 use Rake\Rake;
 
 $text = filter_input(INPUT_GET, "t");
