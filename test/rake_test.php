@@ -1,5 +1,6 @@
 <?php
 require_once dirname(__FILE__) . "/../rake.php";
+use Rake\Rake;
 
 $text = filter_input(INPUT_GET, "t");
 $rake = new Rake(dirname(__FILE__) . "/../SmartStoplist.txt");
