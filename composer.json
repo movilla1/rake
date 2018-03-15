@@ -16,8 +16,7 @@
     },
     "autoload": {
       "psr-4": {
-        "Rake": "src/",
-        "\\movilla1\\Rake": ""
+        "Rake\\": "src/"
       },
       "exclude-from-classmap": ["test/"]
     },
