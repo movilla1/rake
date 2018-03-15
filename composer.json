@@ -4,6 +4,7 @@
     "type": "library",
     "homepage": "http://github.com/movilla1",
     "license": "MIT",
+    "version": "1.0",
     "authors": [
         {
             "name": "Mario O. Villarroel",
@@ -13,5 +14,5 @@
     "require": {
       "php": ">=5.3"
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
